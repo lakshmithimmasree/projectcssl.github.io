@@ -1,0 +1,107 @@
+a{
+    text-decoration: none;
+    font-size: 25px;
+}
+#one{
+    border: none;
+    width: 500px;
+    height: 50px;
+    margin-left: 105px;
+    padding-left: 147px;
+    padding-top: 25px;
+    background-color: #FFEED9;
+}
+#two{
+    border: none;
+    width: 500px;
+    height: 50px;
+    margin-left: 750px;
+    margin-top: -75px;
+    padding-left: 120px;
+    padding-top: 25px;
+    background-color: #FFEED9;
+}
+#three{
+    border: none;
+    width: 900px;
+    height: 80px;
+    margin-left: 80px;
+    padding-top: 8px;
+    padding-left: 8px;
+    background-color: #FFFBF5;
+}
+#four{
+    border: none;
+    width: 600px;
+    height: 53px;
+    margin-left: 910px;
+    margin-top: -88px;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    background-color: #FFFBF5;
+}
+#five{
+    margin-left: 80px;
+    border: none;
+    height: 180px;
+    width: 1307px;
+    padding-left: 5px;
+    font-size: 18px;
+    background-color: #435585 ;
+}
+#six{
+    margin-left: 80px;
+    border: none;
+    height: 398px;
+    width: 670px;
+    text-align: justify;
+    font-size: 28px;
+    padding-top: 5px;
+    padding-left: 10px;
+    background-color: #818FB4;
+}
+#seven{
+    margin-left: 732.5px;
+    margin-top: -403px;
+    border: none;
+    height: 403px;
+    width: 650px;
+    padding-left:12px;
+    background-color: #818FB4;
+}
+#eight{
+    border:none;
+    width: 1314px;
+    height: 120px;
+    margin-left: 80px;
+    margin-top: -25px;
+    text-align:center;
+    font-size: 25px;
+    background-color: #818FB4;
+}
+#nine{
+    border:none;
+    width: 1314px;
+    height: 120px;
+    margin-left: 80px;
+    font-size: 15px;
+    background-color: #818FB4;
+}
+#ten{
+    border:none;
+    width: 1310px;
+    height: 220px;
+    margin-left: 80px;
+    background-color: #F5E8C7;    
+    padding-left: 5px;
+    padding-top: 5px;
+ 
+}
+.same{
+    text-decoration: none;
+    border: 2px ridge black;
+}
+.hi{
+    text-decoration: none;
+    font-size: 18px;
+}
